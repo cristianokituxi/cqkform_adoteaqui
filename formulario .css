@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.logoresilia {
+    margin: 0%;
+    margin-left: 10px;
+    width: 500px;
+    height: 500px;}
+    main{
+        display: flex;
+        width: 80%;
+        justify-content: space-around;
+        align-items: center;
+        background-color: white;
+        margin: 10px auto;
+        border-radius: 50px;
+    }
+
+h1{
+text-align:center ;
+}
+form{
+    text-align: right;
+    width: 20%;
+    
+}
+#nome{
+margin: 17px;    
+}
+#cpf{
+    margin: 17px;
+    border-radius: 1px;
+}
+#email{
+    margin: 17px;
+}
+fieldset{
+    justify-content: center;
+}
+ form{
+     margin-top: 20%;
+ }
+    
